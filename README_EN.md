@@ -69,15 +69,6 @@
 
 ---
 
-### 🚫 Feature Updates and Code Availability Notice
-* **As of November 12, 2025, the main repository has been made private, and this mirror is retained for reference only.**
-* **Source code and feature implementation plans will no longer be made public subsequently.**
-* **How to participate in OShin development?** Please contact: `3383787570@qq.com`
-* **Latest developments?** Please refer to the "Community & Contribution" section below.
-* **Issues Status:** Still available for normal use.
-
-> **🔒 The code retained in the repository still adheres to the open-source protocol and the open-source disclaimer below.**
-
 ## 📜 Open Source Disclaimer
 
 This is an open-source project and contributions are welcome.
